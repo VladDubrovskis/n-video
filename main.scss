@@ -30,7 +30,7 @@ $_n-video_applied: false !default;
 		padding: 8px;
 		background-color: rgba(getColor('grey-tint4'), 0.9);
 		color: white;
-		z-index: 2;
+		z-index: 1;
 	}
 
 	.n-video__play-button {
