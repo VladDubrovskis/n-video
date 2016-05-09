@@ -30,7 +30,6 @@ $_n-video_applied: false !default;
 		padding: 8px;
 		background-color: rgba(getColor('grey-tint4'), 0.9);
 		color: white;
-		z-index: 2;
 	}
 
 	.n-video__play-button {
@@ -44,7 +43,6 @@ $_n-video_applied: false !default;
 		text-indent: -9999px;
 		cursor: pointer;
 		border: 0;
-		z-index: 1;
 
 		&:after {
 			@include nextIcon(play, #fcfcfc, 40);
