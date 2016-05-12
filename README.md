@@ -12,7 +12,7 @@ Create an element of the format e.g.
 
     <div data-n-component="n-video"
         data-n-video-source="brightcove"
-        data-n-video-id="4165329773001"></div>
+        data-n-video-id="2242892312001"></div>
 
 Where
 
