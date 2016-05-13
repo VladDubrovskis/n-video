@@ -1,4 +1,4 @@
-om /*global videojs*/
+/*global videojs*/
 const Video = require('./video');
 
 let playerInstanceId = 0;
